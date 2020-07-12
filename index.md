@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Write for technology
 
-I'm glad you are here. I plan to talk about ...
+I plan to talk about writing for technology
